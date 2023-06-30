@@ -1,2 +1,2 @@
 # prepcourse_henrry
-prueba modulo 2 prep henrry
+sergio reynoso prueba de repositorio y clonar
